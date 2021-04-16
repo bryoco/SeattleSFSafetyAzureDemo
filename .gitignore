@@ -1,3 +1,6 @@
+# wsl2 stuff
+*:Zone.Identifier
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
